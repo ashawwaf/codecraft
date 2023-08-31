@@ -169,7 +169,7 @@
           <h1>Codecraft</h1>
 
           <p class="mt-5">While the name Codecraft might suggest a team, it's powered by a single developer.  At Codecraft, your digital visions and ideas will be crafted into captivating digital experiences.</p>
-          <p class="mt-1">If you are interest to collarborate please fill the <a href="contact" style="color:white;">contact form</a>.</p><p>!!!</p>
+          <p class="mt-1">If you are interest to collarborate please fill the <a href="contact" style="color:white;">contact form</a>.</p>
         </main>
       </div>
 
