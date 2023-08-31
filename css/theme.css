@@ -9041,7 +9041,7 @@ img {
   border-bottom: 2px solid #fff; }
 
 .gradient {
-  background-image: linear-gradient(to right top, #313334, #25565f, #007c7c, #00a287, #00c87e, #00d987, #00ea8f, #00fb98, #00fcc4, #12fae4, #63f7f8, #99f2ff) }
+  background-image: linear-gradient(to right top, #313334, #25565f, #007c7c, #00a287, #00c87e, #00d987, #00ea8f, #00fb98, #00fcc4, #12fae4, #63f7f8, #99f2ff); }
 
 .display-4 {
   font-weight: 500; }
