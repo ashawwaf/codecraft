@@ -16,8 +16,7 @@
     <title>Codecraft</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/theme.min.css">
-    <link rel="stylesheet" href="main.css?v5">
+  <?php include "css.php";?>
 <script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
 
 

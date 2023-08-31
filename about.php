@@ -13,8 +13,7 @@
     <meta name="HandheldFriendly" content="true">
   <title>Codecraft</title>
   <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-  <link rel="stylesheet" href="css/theme.min.css?v5">
-  <link rel="stylesheet" href="main.css?v5">
+  <?php include "css.php";?>
 
 
 
